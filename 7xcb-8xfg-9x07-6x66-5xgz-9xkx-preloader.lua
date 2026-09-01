@@ -2,7 +2,7 @@
 -- by 9x19
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "PATATA LITE",
+    Title = "PATATA Kill All",
     Text = "CREADO POR 9x19",
     Duration = 3
 })
@@ -10,7 +10,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 task.wait(2)
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Patata Lite se esta cargando",
+    Title = "Patata Kill All se esta cargando",
     Text = "Espero unos segundos",
     Duration = 5
 })
