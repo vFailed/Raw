@@ -4,7 +4,7 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "SnapWare se esta cargando",
     Text = "Espero unos segundos",
-    Icon = "rbxassetid://6023426915",
+    Icon = "rbxassetid://127953776975745",
     Duration = 5
 })
 
